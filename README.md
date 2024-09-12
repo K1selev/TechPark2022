@@ -1,5 +1,6 @@
 # TechPark2022
 test app for summer techpark
+
 Необходимо разработать приложение, отображающее информацию о сервисах VK.
 
 JSON с данными: https://publicstorage.hb.bizmrg.com/sirius/result.json
